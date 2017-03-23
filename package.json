@@ -1,0 +1,23 @@
+{
+  "name": "react-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuMengkai/react-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RuMengkai/react-project/issues"
+  },
+  "homepage": "https://github.com/RuMengkai/react-project#readme",
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}
